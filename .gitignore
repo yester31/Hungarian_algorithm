@@ -1,3 +1,10 @@
+x64
+.vs
+*.idea
+costMatrix
+index_0
+index_1
+
 # Prerequisites
 *.d
 
